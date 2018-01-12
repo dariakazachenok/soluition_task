@@ -1,0 +1,7 @@
+F:\Dasha\soluition_task\task25\task25\bin\Debug\task25.exe.config
+F:\Dasha\soluition_task\task25\task25\bin\Debug\task25.exe
+F:\Dasha\soluition_task\task25\task25\bin\Debug\task25.pdb
+F:\Dasha\soluition_task\task25\task25\obj\Debug\task25.csprojResolveAssemblyReference.cache
+F:\Dasha\soluition_task\task25\task25\obj\Debug\task25.csproj.CoreCompileInputs.cache
+F:\Dasha\soluition_task\task25\task25\obj\Debug\task25.exe
+F:\Dasha\soluition_task\task25\task25\obj\Debug\task25.pdb
